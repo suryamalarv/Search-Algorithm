@@ -2,8 +2,8 @@
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
-1.	Hardware – PCs
-2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
+1.	Hardware –  PCs
+2.	Anaconda –  Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ## Linear Search:
 1.	Start from the leftmost element of array[] and compare k with each element of array[] one by one.
